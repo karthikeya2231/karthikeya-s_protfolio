@@ -18,7 +18,8 @@
       &lines=⚡+THIS+IS+MR+DARK+—+WELCOME+TO+MY+PORTFOLIO+⚡" />
   </p>
  
-   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=50&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+MR.karthikeya ;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+MR.KARTHIKEYA;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+ 
  
  
   <p align="center">
