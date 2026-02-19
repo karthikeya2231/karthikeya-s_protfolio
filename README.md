@@ -18,7 +18,7 @@
       &lines=⚡+THIS+IS+MR+DARK+—+WELCOME+TO+MY+PORTFOLIO+⚡" />
   </p>
  
-   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+MR.DARK;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+MR.karthikeya;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
  
  
   <p align="center">
@@ -44,11 +44,11 @@
       Let’s collaborate, innovate, and build something awesome together.
     </p>
  
-<a href="https://www.linkedin.com/in/alapati-sai-chowdary-a2867b2b9">
+<a href="https://www.linkedin.com/in/karthikeya-karimikonda-aaa67a2b9">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
  
-<a href="https://linktr.ee/alapatis671">
+<a href="https://linktr.ee/karthikeyakarimikonda31">
       <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/>
     </a>
  
