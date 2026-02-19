@@ -53,7 +53,7 @@
       <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/>
     </a>
  
-<a href="https://github.com/chowdary1058">
+<a href="https://github.com/karthikeya2231">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </div>
