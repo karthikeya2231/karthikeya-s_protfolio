@@ -107,21 +107,21 @@
       Peek into my GitHub stats to see how I juggle code, coffee, and collaborations!
     </p>
  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chowdary1058&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikeya2231&theme=github_dark"/>
  
 <table align="center" width="100%">
       <tr>
         <td>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chowdary1058&theme=github_dark"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikeya2231&theme=github_dark"/>
         </td>
         <td>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chowdary1058&theme=github_dark&utcOffset=10"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthikeya2231&theme=github_dark&utcOffset=10"/>
         </td>
         <td>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chowdary1058&theme=github_dark"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthikeya2231&theme=github_dark"/>
         </td>
         <td>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chowdary1058&theme=github_dark"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthikeya2231&theme=github_dark"/>
         </td>
       </tr>
     </table>
